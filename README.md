@@ -6,6 +6,10 @@
 
 The server that will send and update data recieved from the PostIt's clients side website.
 
+To visit the site click this [link](https://postits.netlify.app/).
+
+Here is the url for our API `https://postits-site.herokuapp.com/posts`.
+
 ## Installation
 
 * Clone and download this repo.
